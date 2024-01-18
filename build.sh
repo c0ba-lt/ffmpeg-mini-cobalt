@@ -49,7 +49,7 @@ CONFIGURE_ARGS=(
     # --disable-avcodec
     # --disable-avformat
     # --disable-swresample
-    --disable-swscale
+    # --disable-swscale
     --disable-postproc
     # --disable-avfilter
     # --disable-network
